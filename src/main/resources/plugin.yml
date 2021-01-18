@@ -1,0 +1,4 @@
+name: SpawnerSilkTouch
+version: ${project.version}
+main: com.tiebe.plugins.spawnersilktouch.SpawnerSilkTouch
+api-version: 1.16
